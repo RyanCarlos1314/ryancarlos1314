@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Ryan Carlos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Backend`**
 
-Me chamo Ryan Carlos, tenho 24 anos e sou natural de Pernambuco. Concluí o curso superior de Analise e desenvolvimento de sistemas na UNOPAR. Atualmente, estou trabalhando como freelancer. Sou apaixonada por tecnologia e busco novos desafios.
+Me chamo Ryan Carlos, tenho 24 anos e sou natural de Pernambuco. Sou engenheiro de software, atualmente aprimorando meus conhecimentos em backend com Java e Spring Boot. Estudo a criação de APIs RESTful, arquitetura de microsserviços e práticas de integração e entrega contínua (CI/CD), com foco em qualidade, performance e metodologias ágeis. Tenho interesse em atuar em ambientes que utilizem ferramentas de monitoramento como Dynatrace e valorizem boas práticas de engenharia de software.
 
 <p align="left">
     <a href="https://github.com/RyanCarlos1314?tab=repositories">
@@ -67,35 +67,11 @@ Me chamo Ryan Carlos, tenho 24 anos e sou natural de Pernambuco. Concluí o curs
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     align="left" 
@@ -115,14 +91,6 @@ Me chamo Ryan Carlos, tenho 24 anos e sou natural de Pernambuco. Concluí o curs
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -136,6 +104,14 @@ Me chamo Ryan Carlos, tenho 24 anos e sou natural de Pernambuco. Concluí o curs
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 <br/>
